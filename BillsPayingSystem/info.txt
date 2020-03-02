@@ -1,0 +1,1 @@
+A prototype creating the data base for a bill paying system via Hibernate with the code first approach
