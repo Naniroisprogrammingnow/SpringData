@@ -1,1 +1,1 @@
-Example of xml processing
+Example of json processing
