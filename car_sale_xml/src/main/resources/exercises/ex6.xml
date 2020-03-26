@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sales>
+    <sale>
+        <car make="Fiat" model="500L" travelled-distance="2147647"/>
+        <buyer-name>Louann Holzworth</buyer-name>
+        <discount>0.3</discount>
+        <price>3279.53</price>
+        <price-with-discount>2295.670999999999854359611362042414839379489421844482421875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Skoda" model="Citigo" travelled-distance="2183647"/>
+        <buyer-name>Carri Knapik</buyer-name>
+        <discount>0.45</discount>
+        <price>6385.01</price>
+        <price-with-discount>3511.755500000000283551404578474830486811697483062744140625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Omega" travelled-distance="2147483647"/>
+        <buyer-name>Oren Perlman</buyer-name>
+        <discount>0.45</discount>
+        <price>2279.25</price>
+        <price-with-discount>1253.587500000000101219033155075521790422499179840087890625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Freemont" travelled-distance="214647"/>
+        <buyer-name>Cinthia Lasala</buyer-name>
+        <discount>0.55</discount>
+        <price>3142.86</price>
+        <price-with-discount>1414.286999999999860428978593063220614567399024963378906250</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Nissan" model="Altima" travelled-distance="214647"/>
+        <buyer-name>Daniele Zarate</buyer-name>
+        <discount>0.4</discount>
+        <price>831.66</price>
+        <price-with-discount>498.9959999999999815334383868048462318256497383117675781250</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Seat" model="Mii" travelled-distance="92236854775807"/>
+        <buyer-name>Johnette Derryberry</buyer-name>
+        <discount>0.15000000000000002</discount>
+        <price>6654.31</price>
+        <price-with-discount>5656.1634999999998522446365001314916298724710941314697265625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Yaris" travelled-distance="21477"/>
+        <buyer-name>Carri Knapik</buyer-name>
+        <discount>0.25</discount>
+        <price>789.73</price>
+        <price-with-discount>592.2975</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W204" travelled-distance="9285807"/>
+        <buyer-name>Daniele Zarate</buyer-name>
+        <discount>0.3</discount>
+        <price>4936.99</price>
+        <price-with-discount>3455.892999999999780753601186233936459757387638092041015625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Peugeot" model="405" travelled-distance="92036854775807"/>
+        <buyer-name>Zada Attwood</buyer-name>
+        <discount>0.55</discount>
+        <price>6381.25</price>
+        <price-with-discount>2871.562499999999716615572964428793056868016719818115234375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Corolla" travelled-distance="975807"/>
+        <buyer-name>Ann Mcenaney</buyer-name>
+        <discount>0.25</discount>
+        <price>7046.62</price>
+        <price-with-discount>5284.9650</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Panda" travelled-distance="92233854775807"/>
+        <buyer-name>Donnetta Soliz</buyer-name>
+        <discount>0.05</discount>
+        <price>3406.01</price>
+        <price-with-discount>3235.709499999999848742771035858822870068252086639404296875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Kadet" travelled-distance="21474847"/>
+        <buyer-name>Louann Holzworth</buyer-name>
+        <discount>0.2</discount>
+        <price>1892.58</price>
+        <price-with-discount>1514.064000000000084047435677803150610998272895812988281250</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Tacoma" travelled-distance="927"/>
+        <buyer-name>Lino Subia</buyer-name>
+        <discount>0.5</discount>
+        <price>2145.48</price>
+        <price-with-discount>1072.740</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Chevy" model="Caprice" travelled-distance="2143647"/>
+        <buyer-name>Natalie Poli</buyer-name>
+        <discount>0.5</discount>
+        <price>957.53</price>
+        <price-with-discount>478.765</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Rolls-Royce" model="Dawn" travelled-distance="214647"/>
+        <buyer-name>Nisha Markwell</buyer-name>
+        <discount>0.05</discount>
+        <price>7588.74</price>
+        <price-with-discount>7209.302999999999662992244964243582217022776603698730468750</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Seat" model="Mii" travelled-distance="92236854775807"/>
+        <buyer-name>Teddy Hobby</buyer-name>
+        <discount>0.05</discount>
+        <price>6654.31</price>
+        <price-with-discount>6321.594499999999704489273000262983259744942188262939453125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Nissan" model="370Z" travelled-distance="922307"/>
+        <buyer-name>Donnetta Soliz</buyer-name>
+        <discount>0.05</discount>
+        <price>1853.79</price>
+        <price-with-discount>1761.100499999999917675186367205242277123034000396728515625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Panda" travelled-distance="21474837"/>
+        <buyer-name>Cinthia Lasala</buyer-name>
+        <discount>0.1</discount>
+        <price>6735.99</price>
+        <price-with-discount>6062.3910000000001495690238328961640945635735988616943359375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W212" travelled-distance="2183647"/>
+        <buyer-name>Ann Mcenaney</buyer-name>
+        <discount>0.45</discount>
+        <price>3674.57</price>
+        <price-with-discount>2021.013500000000163183688783874458749778568744659423828125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Omega" travelled-distance="1"/>
+        <buyer-name>Nisha Markwell</buyer-name>
+        <discount>0.1</discount>
+        <price>3098.32</price>
+        <price-with-discount>2788.4880000000000687965240331323002465069293975830078125000</price-with-discount>
+    </sale>
+</sales>
